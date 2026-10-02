@@ -1,0 +1,6 @@
+{
+  "name": "AgriArcade: Harvest Rush",
+  "description": "Jeu de gestion agricole isométrique arcade avec combos de récolte par glissement immédiats, zéro attente passive et Game Master procédural d'événements PNJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
